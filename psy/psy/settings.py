@@ -40,6 +40,9 @@ INSTALLED_APPS = [
 
     # Приложения
     'main.apps.MainConfig',
+
+    # Сторонние библиотеки
+    'django_mptt_admin',
 ]
 
 MIDDLEWARE = [
